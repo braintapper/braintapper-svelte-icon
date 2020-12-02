@@ -57,4 +57,4 @@ icons = {
 // synonyms
 icons["calendar-add"] = icons["calendar-new"];
 
-module.exports = icons;
+export { icons };
