@@ -1,30 +1,25 @@
-# braintapper-svelte-componentname
+# braintapper-svelte-icon
 
-Brief description here
+SVG icons
+
+Icons are from http://materialdesignicons.com/ (License: https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+
+This component does not use all the icons from materialdesignsicons.com, only the ones used by Braintapper applications.
+
+It's highly recommended that you fork this component as opposed to using this one as is, since it likely does not have icons you need.
 
 
-# Usage
+# Components
 
-## Component Import
+## Gravatar
 
-Import the components you need in your <script> tag:
 
-```
-  import Indent from "braintapper-svelte-componentname";
-```
 
-## Example Markup
+## Progress Circle
 
-```
-  <componentname/>
-```
+## Svg
 
-## Prop Values
-
-### prop
-
-### prop
-
+## Toggle Svg
 
 ---
 
