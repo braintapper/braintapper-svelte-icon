@@ -262,7 +262,7 @@ synonyms = {
     "calendar-blank": ["calendar"],
     "calendar-minus": ["calendar-remove"],
     "calendar-plus": ["calendar-add", "calendar-new"],
-    "cards-heart": ["heart"]
+    "cards-heart": ["heart"],
     "chart-pie": ["pie-chart"],
     "checkbox-blank": ["unchecked"],
     "checkbox-marked": ["checked"],
