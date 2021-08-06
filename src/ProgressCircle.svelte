@@ -22,6 +22,8 @@
         return "var(--green)";
       case "yellow":
         return "var(--yellow)";
+      case "orange":
+        return "var(--orange)";        
       case "red":
         return "var(--red)";
       case "blue":
