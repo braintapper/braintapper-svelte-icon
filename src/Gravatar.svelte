@@ -1,5 +1,5 @@
 <script>
-  import * as md5 from "md5";
+  import md5 from "md5";
   export let email = undefined;
   export let altText = "Gravatar";
   export let style = undefined;
