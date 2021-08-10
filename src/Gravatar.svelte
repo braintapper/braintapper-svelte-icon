@@ -1,5 +1,5 @@
 <script>
-  import md5 from "md5";
+  import md5 from "blueimp-md5-es6/js/md5.js";
   export let email = undefined;
   export let altText = "Gravatar";
   export let style = undefined;
