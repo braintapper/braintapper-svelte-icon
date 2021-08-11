@@ -13,7 +13,7 @@
 {#if email}
   <img src="https://www.gravatar.com/avatar/{gravatarHash || ""}" {style} {id} class={classes} alt={altText}/>
 {:else}
-  {if alternateDefault}
+  {#if alternateDefault}
     <img src="https://www.gravatar.com/avatar/unknown" {style} {id} class={classes} alt={altText}/>
   {:else}
     <img src="https://www.gravatar.com/avatar/unknown" {style} {id} class={classes} alt={altText}/>
