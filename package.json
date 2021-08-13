@@ -1,6 +1,6 @@
 {
     "name": "braintapper-svelte-icon",
-    "version": "0.0.22",
+    "version": "0.0.23",
     "description": "Svelte component for SVG icons from materialdesignicons.com",
     "author": "braintapper",
     "license": "MIT",
