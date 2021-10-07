@@ -1,13 +1,12 @@
 <script>
-  import md5 from "blueimp-md5-es6/js/md5.js";
-  export let email = undefined;
+  
+  export let gravatarHash = undefined;
   export let alternateDefault = undefined;
   export let altText = "Gravatar";
   export let style = undefined;
   export let id = undefined;
   export let classes = undefined;
-  let gravatarHash = "";
-  $: gravatarHash = md5(email);
+
 </script>
 
 {#if email}
