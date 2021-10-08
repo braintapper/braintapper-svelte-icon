@@ -9,7 +9,7 @@
 
 </script>
 
-{#if email}
+{#if gravatarHash}
   <img src="https://www.gravatar.com/avatar/{gravatarHash || ""}" {style} {id} class={classes} alt={altText}/>
 {:else}
   {#if alternateDefault}
